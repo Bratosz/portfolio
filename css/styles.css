@@ -1,0 +1,177 @@
+body
+{
+	background-color: #04323F;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+}
+#container
+{
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.rectangle
+{
+	width: 960px;
+	margin: 20px;
+	text-align: center;
+}
+.square
+{
+	float: left;
+	width: 50%;
+	text-align: center;
+}
+
+#logo
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	width: 600px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+#clock
+{
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+
+.tile-blue
+{
+	float: left;
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #3095d3;
+}
+
+.tile-blue:hover
+{
+	background-color: #2084c2;
+}
+
+.tile-gray
+{
+	float: left;
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #666666;
+}
+
+.tile-gray:hover
+{
+	background-color: #555555;
+}
+
+.tile-green
+{
+	float: left;
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #93c748;
+}
+
+.tile-green:hover
+{
+	background-color: #82b637;
+}
+
+.tile-yellow
+{
+	float: left;
+	margin: 10px;
+	width: 230px;
+	height: 142px;
+	background-color: #f2b91f;
+}
+
+.tile-yellow:hover
+{
+	background-color: #e1a80e;
+}
+
+.tile-orange
+{
+	margin: 10px;
+	width: 420px;
+	height: 82px;
+	background-color: #ee5232;
+	font-size: 25px;
+	padding: 30px;
+	line-height: 150%;
+}
+
+.tile-gray-big
+{
+	margin: 10px;
+	width: 420px;
+	height: 244px;
+	background-color: #666666;
+	text-align: justify;
+	padding: 30px;
+}
+
+#linkedin
+{
+	float: left;
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #4668b3;
+}
+
+#linkedin:hover
+{
+	background-color: #3557a2;
+}
+
+#github
+{
+	float: left;
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #000000;
+}
+
+#github:hover
+{
+	background-color:#111111;
+}
+
+.button
+{
+	font-size: 76px;
+	margin-top: 20px;
+}
+
+.button-lower
+{
+	font-size: 80px;
+	margin-top: 10px;
+	
+}
+
+.button-big
+{
+	font-size: 76px;
+	margin-top: 10px;
+}
+
+a.tile-link
+{
+	color: #ffffff;
+	text-decoration: none;
+}
