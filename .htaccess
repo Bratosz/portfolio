@@ -8,5 +8,5 @@ RewriteEngine on
 RewriteRule zatrudnij-programiste-webowego index.html
 RewriteRule kim-jestem kimjestem.html
 RewriteRule oferta-tworzenie-stron-www oferta.html
-RewriteRule cv-programista-php-javascript cv.html
-RewriteRule kontakt-programista-php kontakt.html
+RewriteRule cv-programista-java cv.html
+RewriteRule kontakt-programista-java kontakt.html
